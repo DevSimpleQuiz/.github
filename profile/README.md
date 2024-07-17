@@ -1,9 +1,22 @@
 # DevSimpleQuiz
 #### 🪄 간단한 퀴즈를 풀며 어휘력을 늘려가는 서비스
 
+## 목차
+- [🔗 프로젝트 소개](#프로젝트-소개)
+  - [홈](#홈)
+  - [회원가입](#회원가입)
+  - [로그인](#로그인)
+  - [퀴즈](#퀴즈)
+  - [퀴즈 결과](#퀴즈-결과)
+  - [마이페이지](#마이페이지)
+  - [비밀번호 재설정](#비밀번호-재설정)
+- [🔗 프로젝트 기능](#프로젝트-기능)
+- [🗓️ 개발 기간](#개발-기간)
+- [🤍 팀원](#팀원)
+
 <br/>
 
-## 🔗 프로젝트 소개
+## 프로젝트 소개
 > 심심할 때, 짧은 시간 동안 재미있게 두뇌를 자극할 수 있는 퀴즈 게임입니다. 🐠 <br/>
 단어를 맞추는 간단한 퀴즈로 여가 시간을 즐겁게 보내세요 :)
 - 회원, 비회원 모두 퀴즈 풀기 기능을 이용할 수 있어요! 😎
@@ -13,7 +26,7 @@
 
 <br/>
 
-## 🔗 프로젝트 기능
+## 프로젝트 기능
 ### 📌 홈
 - 로그인 여부에 따라 헤더가 달라집니다.
 - 퀴즈 풀기 페이지로 넘어가는 버튼이 있습니다.
@@ -97,14 +110,14 @@
 
 <br/>
 
-## 🗓️ 개발 기간
+## 개발 기간
 ```
 2024.06.24 - 2024.07.16
 ```
 
 <br/>
 
-## 🤍 팀원
+## 팀원
 |김가현 (FE)|안예린 (FE)|이다미 (FE)|임진호 (BE)|
 |:-:|:-:|:-:|:-:|
 |<img src="https://avatars.githubusercontent.com/u/117976216?v=4" width="150" height="150"/><br/>[@gahyeon11](https://github.com/gahyeon11)|<img src="https://avatars.githubusercontent.com/u/29669560?v=4" width="150" height="150"/><br/>[@yeah1832](https://github.com/yeah1832)|<img src="https://avatars.githubusercontent.com/u/58524208?v=4" width="150" height="150"/><br/>[@Dami-LEE00](https://github.com/Dami-LEE00)|<img src="https://avatars.githubusercontent.com/u/74135462?v=4" width="150" height="150"/><br/>[@Jake1152](https://github.com/Jake1152)|
