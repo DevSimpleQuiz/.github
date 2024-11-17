@@ -1,6 +1,8 @@
 # DevSimpleQuiz
 #### 🪄 간단한 퀴즈를 풀며 어휘력을 늘려가는 서비스
 
+[👉 사이트 바로가기](https://devsimplequiz.site/)
+
 <br/>
 
 ## 📝 프로젝트 소개
